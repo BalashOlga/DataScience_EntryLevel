@@ -11,6 +11,8 @@
 2. [HomeWork2](#homework2)
 3. [HomeWork3](#homework3)
 4. [HomeWork4](#homework4)
+5. [HomeWork5](#homework5)
+6. [HomeWork6](#homework6)
 
 ---
 
